@@ -1,3 +1,4 @@
-pandas
-scikit-learn
+Python
+Pandas
+Scikit-learn
 Jupyter Notebook
